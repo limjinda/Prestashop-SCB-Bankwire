@@ -6,6 +6,6 @@ note: This is beta version, please use it carefully!
 
 ตัวอย่างการใช้งาน: http://www.jindatheme.com/demo/shop
 
-![Payment](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![Payment](https://raw.githubusercontent.com/jir4yu/Prestashop-SCB-Bankwire/master/payment.jpg)
 
-![Payment Return](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![Payment Return](https://raw.githubusercontent.com/jir4yu/Prestashop-SCB-Bankwire/master/confirm-payment.jpg)
