@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>bankscb</name>
+	<displayName><![CDATA[Bank wire]]></displayName>
+	<version><![CDATA[1.1.1]]></version>
+	<description><![CDATA[รองรับการจ่ายเงินผ่านบัญชีธนาคารไทยพานิชย์]]></description>
+	<author><![CDATA[JindaTheme]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[คุณต้องการที่จะลบโมดูลนี้จริงๆ หรือไม่?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,135 @@
+body.order-confirmation .breadcrumb,
+body.order-confirmation .page-heading,
+body.order-confirmation #order_step{
+	display: none;
+}
+
+body.order-confirmation .cart_navigation{
+	text-align: center;
+}
+
+body.order-confirmation .cart_navigation .button-exclusive{
+	padding: 10px 25px 10px 20px;
+	background-color: #e2be39;
+	border-radius: 4px;
+	border: 1px solid #dbb837;
+	color: #333333;
+}
+
+body.order-confirmation .cart_navigation .button-exclusive:hover{
+	background-color: #dbb837;
+}
+
+body.order-confirmation .cart_navigation .button-exclusive i{
+	color: #333333;
+	position: relative;
+	top: 1px;
+}
+
+.col-centered{
+	float: none;
+	margin: 0 auto;
+}
+
+.scb-bank-container{
+	margin: 60px auto 30px;
+	display: block;
+	clear: both;
+}
+
+.scb-bank-container .box-wrapper,
+.scb-bank-container .completed-wrapper{
+	padding: 30px;
+	background-color: #ffffff;
+	border-radius: 4px;
+	border: 1px solid #efefef;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.scb-bank-container h2{
+	font-weight: bold;
+	margin: 0 auto 20px;
+	font-size: 20px;
+}
+
+.scb-bank-container p{
+	font-size: 14px;
+	line-height: 1.6;
+}
+
+.scb-bank-container .dashed{
+	margin: 20px auto;
+	width: 50px;
+	height: 1px;
+	background-color: #cccccc;
+}
+
+.scb-bank-container ._logo{
+	width: 100%;
+	max-width: 450px;
+	height: auto;
+	display: block;
+	margin: 0 auto 20px;
+}
+
+.scb-bank-container ._title{
+	font-size: 16px;
+	font-weight: bold;
+	margin: 0 auto 10px;
+}
+
+.scb-bank-container .__price{
+	color: #27954c;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.scb-bank-container ._more{
+	margin: 0 auto 20px;
+	display: block;
+}
+
+.scb-bank-container ._check-icon{
+	display: block;
+	margin: 0 auto 20px;
+	width: 80px;
+	height: 80px;
+}
+
+.completed-wrapper .left{
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+.completed-wrapper .left ._logo{
+	width: 120px;
+	height: 120px;
+	display: block;
+	margin: auto;
+}
+
+.completed-wrapper .right{
+	margin-left: 140px;
+}
+
+.completed-wrapper .right .lead{
+	font-size: 16px;
+	font-weight: 300;
+	margin: 0 0 10px;
+	line-height: 1.4;
+}
+
+.completed-wrapper .right .lead span{
+	color: #4e2a85;
+	font-weight: bold;
+}
+
+.completed-wrapper ._footer-note {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.completed-wrapper ._footer-note p{
+	font-size: 12px;
+	margin-bottom: 5px;
+}
