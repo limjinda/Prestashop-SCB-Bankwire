@@ -16,7 +16,7 @@
 			<div class="col-sm-8 col-md-6 col-centered">
 				<div class="box-wrapper">
 					<h2>{l s='Siam Commercial Bank' mod='bankSCB'}</h2>
-					<form action="{$link->getModuleLink('bankSCB', 'validation', [], true)|escape:'html'}" method="post">
+					<form action="{$link->getModuleLink('bankscb', 'validation', [], true)|escape:'html'}" method="post">
 						<img src="{$this_path_bw}bank-logo.jpg" alt="{l s='SCB Logo' mod='bankSCB'}" class="_logo" />
 						<h3 class="_title">{l s='You have chosen to pay by SCB' mod='bankSCB'}</h3>
 						<p class="_lead">{l s='Here is a short summary of your order' mod='bankSCB'}</p>
